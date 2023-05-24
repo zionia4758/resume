@@ -59,5 +59,5 @@ Link: https://github.com/boostcampaitech5/level2_objectdetection-cv-01
 <br>
 
 ## <b>Education
- 한양대학교 컴퓨터전공 (2016.03~2022.02)<br>
- 네이버 부스트캠프 (2023.03~)
+ 한양대학교 컴퓨터전공 (2016.03 ~ 2022.02)<br>
+ 네이버 부스트캠프 (2023.03 ~)
