@@ -11,7 +11,7 @@
 - 생년월일 : 1997.03.11
 
 ### <b> Contact
- - Email : zionia4758@gmail.com
+ - Email :
  - Blog : https://zionia.tistory.com
  - GitHub : https://github.com/zionia4758
  
