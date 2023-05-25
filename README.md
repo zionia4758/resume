@@ -42,9 +42,19 @@
 ---
 <br>
 
-## <b>주요 기술
+## <b>Skills
+### <b>주요 기술
 - Python
 - Pytorch
+- Git
+### <b>사용 경험 기술
+- OpenGL
+- BeatifulSoup
+- Selenium
+- MySQL
+- Streamlit
+- Pandas
+- Matplotlib
 
 <br>
 
