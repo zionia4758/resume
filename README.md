@@ -59,12 +59,11 @@
 <br>
 
 ## <b>Projects
-### 1. Programmers 코딩테스트 풀이 코드 Repository
-Link : <https://github.com/zionia4758>
-### 2. AlexNet 구현 프로젝트
-Link: https://github.com/zionia4758/AlexNetProject
-### 3. [부스트캠프]Streamlit을 이용한 EDA tool 개발
-Link: https://github.com/boostcampaitech5/level2_objectdetection-cv-01
+|No.|Link|제목|팀/개인|주요역할|설명|
+|---|---|---|---|---|---|
+|1.|[Link](https://github.com/zionia4758/programmers)|Programmers 코딩테스트 풀이|개인|-|programmers의 코딩 테스트 문제를 푸는데 사용한 코드를 모아놓는 저장소입니다.|
+|2.|[Link](https://github.com/zionia4758/AlexNetProject)|AlexNet 구현 프로젝트|개인|Baseline 개발 및 실험|AlexNet의 구현을 목표로 AlexNet의 네트워크 구조를 개발하고 간단한 Classification을 진행했습니다.|
+|3.|[Link](https://github.com/boostcampaitech5/level2_objectdetection-cv-01)|Streamlit을 이용한 EDA tool 개발|팀|데이터 시각화 및 분류용 tool 제작, 모델 실험|stereamlit을 이용하여 데이터 EDA 정보를 제공하고 Bbox등을 시각화하여 볼 수 있는 프로그램을 제작했습니다. 또한, 여러 모델을 구조를 변경해가며 성능 변화를 측정했습니다.|
 
 <br>
 
